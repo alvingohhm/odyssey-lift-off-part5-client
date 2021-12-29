@@ -1,5 +1,6 @@
 {
   "name": "catstronauts-client-complete",
+  "homepage": "https://client-catstronauts100.herokuapp.com/",
   "version": "1.0.0",
   "private": true,
   "description": "front-end demo app for Apollo's lift-off IV course",
